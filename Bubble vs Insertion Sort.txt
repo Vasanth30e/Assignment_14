@@ -13,5 +13,6 @@ Comparison:
 
 Example: 
 
-In milliseconds, Insertion Sort has 0.2296ms but the Bubble Sort has 0.3331ms. 
+In milliseconds, Insertion Sort taking 0.2296ms but the Bubble Sort taking 0.3331ms. 
+So Comparatively, Insertion sort is taking less time to do the sorting than Bubble Sort. 
  
