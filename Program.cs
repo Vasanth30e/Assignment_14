@@ -88,7 +88,7 @@ namespace Assignment_14
             Console.WriteLine("Bubble Sorting: ");
             Print(arr);
 
-            Console.WriteLine($"Array {arr.Length} Time Taken {stopwatch.Elapsed.TotalMilliseconds} millieseconds");
+            Console.WriteLine($"Array {arr.Length} Time Taken in Bubble Sort {stopwatch.Elapsed.TotalMilliseconds} millieseconds");
             Console.WriteLine("---------------------------------------");
             //Insertion Sort
             Stopwatch stopwatch1 = new Stopwatch();
@@ -102,7 +102,7 @@ namespace Assignment_14
             Console.WriteLine("Insertion Sorting: ");
             Print(arr1);
 
-            Console.WriteLine($"Array {arr1.Length} Time Taken {stopwatch1.Elapsed.TotalMilliseconds} millieseconds");
+            Console.WriteLine($"Array {arr1.Length} Time Taken in Insertion Sort {stopwatch1.Elapsed.TotalMilliseconds} millieseconds");
 
             Console.ReadKey();
             
