@@ -1,0 +1,17 @@
+Bubble Sort and Insertion Sort Comparison:
+
+1. Bubble Sort will swap the adjacent only if its smaller and check the next whether its 
+smaller or not if not then it will leave and the sorting will be done.
+
+2. Insertion Sort will keeps checking the left side of the element only swap it if the 
+number is small otherwise it will remain the same, it will keep repeating the same step 
+until the elements are sorted.
+
+Comparison: 
+1. Insertion sort is faster than the Bubble Sort.
+2. Effectively for the large number of array sorting will be done quickly compared to Bubble Sort.
+
+Example: 
+
+In milliseconds, Insertion Sort has 0.2296ms but the Bubble Sort has 0.3331ms. 
+ 
